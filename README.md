@@ -1,2 +1,2 @@
 # Hungry-Snake
-Little homework
+Little Project
