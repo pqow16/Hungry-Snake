@@ -1,2 +1,2 @@
 # Hungry-Snake
-This is my first project. It's a file to reproduce the famous game "Snake" with python-tkinter. Use 'w', 'a', 's', 'd' to control your snake to survive and eat as much food as possible to get high score. Enjoy!
+Here is the develop branch.
