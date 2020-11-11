@@ -1,2 +1,2 @@
 # Hungry-Snake
-Here is the develop branch.
+I may fix a direction control bug in next patch.
